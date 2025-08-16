@@ -142,6 +142,14 @@ ul {
     text-align: center;
 }
 
+.name-list{
+    margin-top: 15px;
+    color: var(--color-primary);
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
 /* Botão de sortear título */
 .button-draw {
     display: flex;
@@ -160,3 +168,4 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
